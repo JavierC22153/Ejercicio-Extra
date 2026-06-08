@@ -1,4 +1,3 @@
-
 REQUISITOS
 ----------
 - Python 3.x (cualquier versión 3.6 o superior)
@@ -12,7 +11,6 @@ EJECUCIÓN
 ---------
 1. Abrir una terminal en la carpeta donde está el archivo
 2. Ejecutar el siguiente comando:
-
    python etapa2.py
 
 SALIDA ESPERADA
@@ -29,3 +27,8 @@ PARTE B — Cifrado por bloques
   - Transformaciones por bloque (sustitución, transposición, XOR)
   - Mensaje cifrado en hexadecimal
   - Mensaje recuperado (debe ser igual al original)
+
+VIDEO
+-----
+https://drive.google.com/file/d/1PEIAY7iDqtrwYx-3cakp96ogP9q7BNwL/view?usp=sharing
+
